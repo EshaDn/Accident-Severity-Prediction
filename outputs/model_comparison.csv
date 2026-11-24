@@ -1,0 +1,6 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1
+Decision Tree,0.3641,0.308,0.3112,0.3088
+Random Forest,0.4378,0.3676,0.3682,0.3678
+Gradient Boosting,0.4716,0.4314,0.3592,0.3661
+Improved Random Forest,0.4409,0.3845,0.3794,0.3815
+Fatal-focused Random Forest,0.4639,0.404,0.3844,0.3649
