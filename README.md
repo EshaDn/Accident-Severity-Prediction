@@ -148,8 +148,8 @@ Accident-Severity-Prediction/
 ├── app.py
 │
 ├── data/
-│   ├── raw/
-│   └── processed/
+│   └── raw/
+│   
 │
 ├── models/
 │   ├── decision_tree.pkl
@@ -230,10 +230,6 @@ http://localhost:8501
 Khanum, H., Garg, A., & Faheem, M. I. Data for Accident Severity Prediction Modelling for Indian Highways Case Study.
 
 [Zenodo Dataset](https://doi.org/10.5281/zenodo.7773156)
-
-**Published research paper:**
-
-[Accident severity prediction modeling for road safety using random forest algorithm: An analysis of Indian highways](https://pmc.ncbi.nlm.nih.gov/articles/PMC10787871/)
 
 ---
 
