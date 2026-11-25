@@ -1,4 +1,4 @@
-# Road Accident Severity Prediction Using Machine Learning
+# Road Accident Severity Prediction
 
 A machine learning project for predicting road accident severity across selected Indian National Highways using historical accident data.
 
